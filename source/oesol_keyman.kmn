@@ -10,6 +10,8 @@ begin Unicode > use(main)
 
 group(main) using keys
 
+"." + "." + "." > U+2026
+
 + [SHIFT K_M] > ''
 + [SHIFT K_N] > ''
 + [SHIFT K_B] > ''
