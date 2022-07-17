@@ -12,6 +12,11 @@ Oysol-key
 
 [Keyman](https://keyman.com/)은 윈도우즈, 맥OS, 리눅스, 아이폰, 아이패드, 안드로이드 태블릿과 스마트폰, 그리고 웹 브라우저를 지원합니다. 하지만 안드로이드, iOS용 배열은 따로 만들지 않았으며, 리눅스와 윈도우에서 작동하는 것을 확인했습니다.
 
+
+팁
+---
+˘와 모음을 동시에 눌러도 됩니다. 어느 것이 먼저 눌려도 변환되게 하였습니다.
+
 Thanks to
 ---------
  * [CMUO](https://github.com/Tzetachi/Computer-Modern-Unicode-Oesol) 글꼴을 제작하신 [Tzetachi](https://github.com/Tzetachi)님
