@@ -5,7 +5,10 @@ Oesol-Keyman
 ----
 [Tzetachi](https://github.com/Tzetachi)님이 만드신 [Computer Modern Unicode Oesol (이하, CMUO)](https://github.com/Tzetachi/Computer-Modern-Unicode-Oesol) 글꼴에 대응하는 [Keyman](https://keyman.com/)용 자판 배열입니다.
 
-글쇠놓이는 [Oesol-key](https://github.com/armyb1rd/Oesol-key)와 완전히 같습니다.
+글쇠놓이는 [Oesol-key](https://github.com/armyb1rd/Oesol-key)와 유사하지만 약간 다릅니다.
+
+쿼티 자판을 기준으로, p를 누르면, ˘가 입력되도록 하였고, 이것을 기반으로 짧은 ㅗ, 짧은 ㅜ, 짧은 ㅡ, 짧은 ㅣ(예정)를 입력할 수 있게 됨에 따라,
+기존 쿼티에서의 [, ] 배열을 그대로 가져갔습니다.
 
 [Keyman](https://keyman.com/)은 윈도우즈, 맥OS, 리눅스, 아이폰, 아이패드, 안드로이드 태블릿과 스마트폰, 그리고 웹 브라우저를 지원합니다. 하지만 안드로이드, iOS용 배열은 따로 만들지 않았으며, 리눅스와 윈도우에서 작동하는 것을 확인했습니다.
 
