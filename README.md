@@ -5,7 +5,12 @@
 [Tzetachi](https://github.com/Tzetachi)님이 만드신 [Computer Modern Unicode Oesol (이하, CMUO)](https://github.com/Tzetachi/Computer-Modern-Unicode-Oesol) 글꼴에 대응하는 [Keyman](https://keyman.com/)용 자판 배열입니다.
 
 글쇠놓이는 두벌식 자판에서 대문자가 있다고 생각하시면 편하며, ㅐ 키에는 딴이, ㅔ 키에는 ˘를 배정했습니다.
+
 그리고 ...이 ⋯로 변환됩니다.
+
+## 설치 방법
+
+[kmp 파일](https://github.com/oysol/Oysol-key/blob/main/build/oysol_key.kmp)을 다운받아 [Keyman](https://keyman.com/)에서 설치하면 됩니다.
 
 ## Keyman
 
