@@ -1,6 +1,6 @@
-oesol_keyman Change History
+Oysol key Change History
 ====================
 
-1.0 (2022-07-02)
+2.0 (2022-07-18)
 ----------------
-* Created by 
+* Created by oysol

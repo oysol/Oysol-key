@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>15.0.266.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">Oysol key</Name>
+    <Copyright URL="">© oysol</Copyright>
+    <Author URL="">oysol</Author>
+    <Version URL=""></Version>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\oysol_key.kmx</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\build\oysol_key.kvk</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\..\..\Downloads\NanumCMUOSerif-Roman.otf</Name>
+      <Description>Font NanumCMUO Serif Roman</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.otf</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Oysol key</Name>
+      <ID>oysol_key</ID>
+      <Version>2.0</Version>
+      <OSKFont>..\..\..\..\..\Downloads\NanumCMUOSerif-Roman.otf</OSKFont>
+      <DisplayFont>..\..\..\..\..\Downloads\NanumCMUOSerif-Roman.otf</DisplayFont>
+      <Languages>
+        <Language ID="ko-Kore-KR">Korean (Korean (alias for Hangul + Han), Republic of Korea)</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>

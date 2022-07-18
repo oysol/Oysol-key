@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>3</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\user\Documents\Keyman Developer\Projects\oysol_key\oysol_key.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_84f2eb3f69a32fd75e9ba4397e18b7e6</ID>
+      <FullPath>C:\Users\user\Documents\Keyman Developer\Projects\oysol_key\source\oysol_key.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_fa021158703063374515f0ce8c701a4f</ID>
+      <FullPath>C:\Users\user\Documents\Keyman Developer\Projects\oysol_key\source\oysol_key.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\user\Documents\Keyman Developer\Projects\oysol_key\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\user\Documents\Keyman Developer\Projects\oysol_key\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\user\Documents\Keyman Developer\Projects\oysol_key\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8fe4ffaf36b9b2e4ee3142b965b4e944</ID>
+      <FullPath>C:\Users\user\Documents\Keyman Developer\Projects\oysol_key\oysol_key.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_db1670a74efd687c6dd4b4ab366c3c0d</ID>
+      <FullPath>C:\Users\user\Documents\Keyman Developer\Projects\oysol_key\source\..\build\oysol_key.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_37a549367cb9c5f5607dfcadbe746bf1</ID>
+      <FullPath>C:\Users\user\Documents\Keyman Developer\Projects\oysol_key\source\..\build\oysol_key.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8a67e6d1014c0514488285ecd8a46d56</ID>
+      <FullPath>C:\Users\user\Documents\Keyman Developer\Projects\oysol_key\source\..\..\..\..\..\Downloads\NanumCMUOSerif-Roman.otf</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>oysol_key.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\user\Documents\Keyman Developer\Projects\oysol_key\source\oysol_key.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>oysol_key.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\user\Documents\Keyman Developer\Projects\oysol_key\source\oysol_key.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
