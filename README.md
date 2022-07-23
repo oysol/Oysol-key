@@ -10,11 +10,11 @@
 
 ## 설치 방법
 
-[kmp 파일](https://github.com/oysol/Oysol-key/blob/main/build/oysol_key.kmp)을 다운받아 [Keyman](https://keyman.com/)에서 설치하면 됩니다.
+[Keyman](https://keyman.com/)을 설치한 뒤에, [kmp 파일](https://github.com/oysol/Oysol-key/blob/main/build/oysol_key.kmp)을 다운받아 실행하여 설치를 진행하십시오.
 
 ## Keyman
 
-[Keyman](https://keyman.com/)은 윈도우즈, 맥OS, 리눅스, 아이폰, 아이패드, 안드로이드 태블릿과 스마트폰, 그리고 웹 브라우저를 지원합니다. 하지만 안드로이드, iOS용 배열은 따로 만들지 않았으며, 리눅스와 윈도우에서 작동하는 것을 확인했습니다.
+[Keyman](https://keyman.com/)은 공개 소스(Open source) 입력기이며, 윈도우즈, 맥OS, 리눅스, 아이폰, 아이패드, 안드로이드 태블릿과 스마트폰, 그리고 웹 브라우저를 지원합니다. 하지만 안드로이드, iOS용 배열은 따로 만들지 않았으며, 리눅스와 윈도우에서 작동하는 것을 확인했습니다.
 
 ## Thanks to
 
