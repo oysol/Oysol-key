@@ -11,14 +11,38 @@ begin Unicode > use(main)
 group(main) using keys
 
 ".." + "." > U+22EF
+
 U+02D8 + [K_H] > U+E036
+U+E02F + [K_P] > U+E036
+U+E02F + [SHIFT K_P] > U+E036
+
 U+02D8 + [SHIFT K_H] > U+E019
+U+E012 + [K_P] > U+E019
+U+E012  + [SHIFT K_P] > U+E019
+
 U+02D8 + [K_N] > U+E037
+U+E031 + [K_P] > U+E037
+U+E031 + [SHIFT K_P] > U+E037
+
 U+02D8 + [SHIFT K_N] > U+E01A
+U+E014 + [K_P] > U+E01A
+U+E014 + [SHIFT K_P] > U+E01A
+
 U+02D8 + [K_M] > U+E038
+U+E033 + [K_P] > U+E038
+U+E033 + [SHIFT K_P] > U+E038
+
 U+02D8 + [SHIFT K_M] > U+E01B
+U+E016 + [K_P] > U+E01B
+U+E016 + [SHIFT K_P] > U+E01B
+
 U+02D8 + [K_L] > U+E039
+U+E034 + [K_P] > U+E039
+U+E034 + [SHIFT K_P] > U+E039
+
 U+02D8 + [SHIFT K_L] > U+E01C
+U+E017 + [K_P] > U+E01C
+U+E017 + [SHIFT K_P] > U+E01C
 
 + [SHIFT K_M] > U+E016
 + [SHIFT K_N] > U+E014
