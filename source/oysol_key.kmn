@@ -3,7 +3,7 @@ c with name "Oysol key"
 store(&VERSION) '10.0'
 store(&NAME) 'Oysol key'
 store(&COPYRIGHT) '© oysol'
-store(&KEYBOARDVERSION) '2.2'
+store(&KEYBOARDVERSION) '2.3'
 store(&TARGETS) 'linux'
 
 begin Unicode > use(main)
@@ -15,61 +15,95 @@ group(main) using keys
 U+02D8 + [K_H] > U+E036
 U+E02F + [K_P] > U+E036
 U+E02F + [SHIFT K_P] > U+E036
+U+E02F + [CAPS K_P] > U+E036
 
 U+02D8 + [SHIFT K_H] > U+E019
 U+E012 + [K_P] > U+E019
 U+E012  + [SHIFT K_P] > U+E019
+U+E012  + [CAPS K_P] > U+E019
 
 U+02D8 + [K_N] > U+E037
 U+E031 + [K_P] > U+E037
 U+E031 + [SHIFT K_P] > U+E037
+U+E031 + [CAPS K_P] > U+E037
 
 U+02D8 + [SHIFT K_N] > U+E01A
 U+E014 + [K_P] > U+E01A
 U+E014 + [SHIFT K_P] > U+E01A
+U+E014 + [CAPS K_P] > U+E01A
 
 U+02D8 + [K_M] > U+E038
 U+E033 + [K_P] > U+E038
 U+E033 + [SHIFT K_P] > U+E038
+U+E033 + [CAPS K_P] > U+E038
 
 U+02D8 + [SHIFT K_M] > U+E01B
 U+E016 + [K_P] > U+E01B
 U+E016 + [SHIFT K_P] > U+E01B
+U+E016 + [CAPS K_P] > U+E01B
 
 U+02D8 + [K_L] > U+E039
 U+E034 + [K_P] > U+E039
 U+E034 + [SHIFT K_P] > U+E039
+U+E034 + [CAPS K_P] > U+E039
 
 U+02D8 + [SHIFT K_L] > U+E01C
 U+E017 + [K_P] > U+E01C
 U+E017 + [SHIFT K_P] > U+E01C
+U+E017 + [CAPS K_P] > U+E01C
 
 + [SHIFT K_M] > U+E016
++ [CAPS K_M] > U+E016
 + [SHIFT K_N] > U+E014
++ [CAPS K_N] > U+E014
 + [SHIFT K_B] > U+E015
++ [CAPS K_B] > U+E015
 + [SHIFT K_V] > U+E00C
++ [CAPS K_V] > U+E00C
 + [SHIFT K_C] > U+E009
++ [CAPS K_C] > U+E009
 + [SHIFT K_X] > U+E00B
++ [CAPS K_X] > U+E00B
 + [SHIFT K_Z] > U+E00A
++ [CAPS K_Z] > U+E00A
 + [SHIFT K_L] > U+E017
++ [CAPS K_L] > U+E017
 + [SHIFT K_K] > U+E00E
++ [CAPS K_K] > U+E00E
 + [SHIFT K_J] > U+E010
++ [CAPS K_J] > U+E010
 + [SHIFT K_H] > U+E012
++ [CAPS K_H] > U+E012
 + [SHIFT K_G] > U+E00D
++ [CAPS K_G] > U+E00D
 + [SHIFT K_F] > U+E003
++ [CAPS K_F] > U+E003
 + [SHIFT K_D] > U+E007
++ [CAPS K_D] > U+E007
 + [SHIFT K_S] > U+E001
++ [CAPS K_S] > U+E001
 + [SHIFT K_A] > U+E004
++ [CAPS K_A] > U+E004
 + [SHIFT K_P] > U+02D8
++ [CAPS K_P] > U+02D8
 + [SHIFT K_O] > U+E018
++ [CAPS K_O] > U+E018
 + [SHIFT K_I] > U+E00F
++ [CAPS K_I] > U+E00F
 + [SHIFT K_U] > U+E011
++ [CAPS K_U] > U+E011
 + [SHIFT K_Y] > U+E013
++ [CAPS K_Y] > U+E013
 + [SHIFT K_T] > U+E006
++ [CAPS K_T] > U+E006
 + [SHIFT K_R] > U+E000
++ [CAPS K_R] > U+E000
 + [SHIFT K_E] > U+E002
++ [CAPS K_E] > U+E002
 + [SHIFT K_W] > U+E008
++ [CAPS K_W] > U+E008
 + [SHIFT K_Q] > U+E005
++ [CAPS K_Q] > U+E005
 + [K_M] > U+E033
 + [K_N] > U+E031
 + [K_L] > U+E034
